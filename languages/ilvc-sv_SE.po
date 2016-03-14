@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Ilmenite Visitor Consent\n"
+"POT-Creation-Date: 2016-03-14 15:29+0100\n"
+"PO-Revision-Date: 2016-03-14 15:31+0100\n"
+"Language-Team: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ilmenite-visitor-consent.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ilmenite-visitor-consent.php:167
+msgid "Are you over 18 years old?"
+msgstr "Är du äldre än 18 år?"
+
+#: ilmenite-visitor-consent.php:171
+msgid ""
+"You need to be at least 18 years old to enter this website. By continuing "
+"you agree that you are."
+msgstr ""
+"Du måste vara minst 18 år gammal för att få använda denna webbplats. Genom "
+"att fortsätta accepterar du detta."
+
+#: ilmenite-visitor-consent.php:175
+msgid "I accept"
+msgstr "Jag accepterar"
+
+#. Plugin Name of the plugin/theme
+#: ilmenite-visitor-consent.php:232 ilmenite-visitor-consent.php:233
+#: ilmenite-visitor-consent.php:327
+msgid "Ilmenite Visitor Consent"
+msgstr "Ilmenite besökarsamtycke"
+
+#: ilmenite-visitor-consent.php:247
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ilmenite-visitor-consent.php:254
+msgid "Title"
+msgstr "Titel"
+
+#: ilmenite-visitor-consent.php:265
+msgid "Description"
+msgstr "Beskrivning"
+
+#: ilmenite-visitor-consent.php:276
+msgid "Accept Button Text"
+msgstr "Acceptera-knapptext"
+
+#: ilmenite-visitor-consent.php:287
+msgid "Overlay Opacity"
+msgstr "Overlay-opacitet"
+
+#: ilmenite-visitor-consent.php:320
+msgid ""
+"Here you can configure the consent box with your own custom title, "
+"description, accept box text and opacity."
+msgstr ""
+"Här kan du konfigurera samtyckesrutan med din egen titel, beskrivning, "
+"knapptext och bakgrundsopacitet."
+
+#: ilmenite-visitor-consent.php:328
+msgid ""
+"With Ilmenite Visitor Consent you have a popup box with a message that the "
+"visitor has to agree to before being allowed into your website."
+msgstr ""
+"Med Ilmenite besökarsamtycke får du en snygg lightboxruta med ett "
+"meddelande som besökaren måste godkänna innan hen tillåts in till din "
+"webbplats."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.ilmenite.io"
+msgstr "http://www.ilmenite.io"
+
+#. Description of the plugin/theme
+msgid ""
+"A developer friendly plugin to ask the visitor to consent to some message "
+"before being able to view the site."
+msgstr ""
+"Ett utvecklarvänligt tillägg som ber besökaren att godkänna ett meddelande "
+"innan hen för besöka webbplatsen."
+
+#. Author of the plugin/theme
+msgid "Bernskiold Media"
+msgstr "Bernskiold Media"
+
+#. Author URI of the plugin/theme
+msgid "http://www.bernskioldmedia.com"
+msgstr "http://www.bernskioldmedia.se"

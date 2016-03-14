@@ -1,0 +1,44 @@
+/**
+ * Ilmenite Visitor Consent
+ *
+ * Default Stylesheet. You may dequeue/not load this in your theme,
+ * using the options we provide. This assumes default class names.
+ */
+
+.ilvc-overlay {
+	position: fixed;
+	z-index: 9999;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: black;
+	opacity: 1;
+}
+
+.ilvc-consent-box {
+	width: 40em;
+	max-width: 80%;
+	background: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99999;
+	padding: 2em;
+	oapcity: 0;
+}
+
+.ilvc-consent-box-title {
+	font-size: 2em;
+}
+
+.ilvc-consent-box-description {
+	font-size: 1.1em;
+}
+
+.ilvc-consent-box-agree {}
+
+.ilvc-consent-box button {
+	font-size: 1.2em;
+	padding: 0.8em 1.8em;
+}
